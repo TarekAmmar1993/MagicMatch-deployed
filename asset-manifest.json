@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MagicMatch-deployed/static/css/main.ca1835aa.chunk.css",
+    "main.js": "/MagicMatch-deployed/static/js/main.6fb9859a.chunk.js",
+    "main.js.map": "/MagicMatch-deployed/static/js/main.6fb9859a.chunk.js.map",
+    "runtime-main.js": "/MagicMatch-deployed/static/js/runtime-main.59de6365.js",
+    "runtime-main.js.map": "/MagicMatch-deployed/static/js/runtime-main.59de6365.js.map",
+    "static/js/2.a6e67b6a.chunk.js": "/MagicMatch-deployed/static/js/2.a6e67b6a.chunk.js",
+    "static/js/2.a6e67b6a.chunk.js.map": "/MagicMatch-deployed/static/js/2.a6e67b6a.chunk.js.map",
+    "index.html": "/MagicMatch-deployed/index.html",
+    "static/css/main.ca1835aa.chunk.css.map": "/MagicMatch-deployed/static/css/main.ca1835aa.chunk.css.map",
+    "static/js/2.a6e67b6a.chunk.js.LICENSE.txt": "/MagicMatch-deployed/static/js/2.a6e67b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59de6365.js",
+    "static/js/2.a6e67b6a.chunk.js",
+    "static/css/main.ca1835aa.chunk.css",
+    "static/js/main.6fb9859a.chunk.js"
+  ]
+}
